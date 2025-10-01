@@ -1,0 +1,81 @@
+
+[
+    {
+        "id": 1,
+        "nome": "Livro Turma da Monica",
+        "descricao": "Livro personalizavel de meu amigo Davi",
+        "preco": 10000.0,
+        "imagem": "../Imagens/davi.png"
+    },
+    {
+        "id": 2,
+        "nome": "Foto de Jumpscare Medo",
+        "descricao": "Medo",
+        "preco": 4000.0,
+        "imagem": "../Imagens/susto.jpg"
+    },
+
+        {
+        "id": 3,
+        "nome": "Davi Gojo",
+        "descricao": "Bizarro",
+        "preco": 12.0,
+        "imagem": "../Imagens/davigojo.jpeg"
+    },
+
+        {
+        "id": 4,
+        "nome": "Macaco",
+        "descricao": "Sons de Macaco",
+        "preco": 67.0,
+        "imagem": "../Imagens/macaco.webp"
+    },
+
+        {
+        "id": 5,
+        "nome": "Osaka",
+        "descricao": "Sata Andagi",
+        "preco": 3.62,
+        "imagem": "../Imagens/osaka.webp"
+    },
+
+        {
+        "id": 6,
+        "nome": "Miku",
+        "descricao": "I fell so sigma",
+        "preco": 100.0,
+        "imagem": "../Imagens/miku.jpg"
+    },
+
+        {
+        "id": 7,
+        "nome": "Foto de sadboy de 2015",
+        "descricao": "Sad boy triste",
+        "preco": 123.0,
+        "imagem": "../Imagens/bartsimpsonsadboytriste.jpg"
+    },
+
+        {
+        "id": 8,
+        "nome": "Olhos",
+        "descricao": "Hardcore",
+        "preco": 321.0,
+        "imagem": "../Imagens/Eversonolhos.jpg"
+    },
+
+        {
+        "id": 9,
+        "nome": "Teto",
+        "descricao": "Tetotetotetotetoteto",
+        "preco": 4000.0,
+        "imagem": "../Imagens/teto.jpeg"
+    },
+
+        {
+        "id": 10,
+        "nome": "Peter Griffin",
+        "descricao": "bazinga",
+        "preco": 1000.0,
+        "imagem": "../Imagens/peter.png"
+    }
+]
